@@ -1,4 +1,9 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=300&section=header&text=TheSkyEmbraces&fontSize=70&)
 
+<div align=center>
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235CD0FF&title_bg=%230EB4FC&icon=icloud.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
+</div>
 <!--
 **TheSkyEmbraces/TheSkyEmbraces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,8 +18,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<div align=center>
-![header](https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=300&section=header&text=TheSkyEmbraces&fontSize=70&)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter&count_bg=%235CD0FF&title_bg=%230EB4FC&icon=icloud.svg&icon_color=%23FFFFFF&title=%EB%B0%A9%EB%AC%B8%EC%9E%90&edge_flat=false)](https://hits.seeyoufarm.com)
-</div>

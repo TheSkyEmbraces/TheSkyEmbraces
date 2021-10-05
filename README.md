@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=99ccff&height=300&section=header&text=TheSky%20Embraces&fontSize=70)
+![header](https://capsule-render.vercel.app/api?type=waving&color=00bfff&height=300&section=header&text=TheSky%20Embraces&fontSize=70)
 
 <!--
 **TheSkyEmbraces/TheSkyEmbraces** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
